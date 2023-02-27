@@ -10,5 +10,5 @@ designed using figma online tool, git cmd and vs-code
 - vs-code
 
 
-[figma design](https://www.figma.com/file/mb7MWSNvJH04qbdXxIN5gp/Mockup-and-Wireframe?node-id=0%3A1&t=QECwKr3wzRqMRLH1-0) - figma profile
+[figma design](https://www.figma.com/file/mb7MWSNvJH04qbdXxIN5gp/Mockup-and-Wireframe?node-id=0%3A1&t=QECwKr3wzRqMRLH1-0) - figma link
 
