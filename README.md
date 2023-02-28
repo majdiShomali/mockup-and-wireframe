@@ -1,8 +1,7 @@
 # mockup-and-wireframe
 
 ##  what is this project?  
-an E-learning  website for the ERHF Company,
-designed using figma online tool, git cmd and vs-code
+an E-learning website for the ERHF Company, designed using Figma online tool, git cmd, and vs-code
 
 ###  Tools
 - figma online tool
